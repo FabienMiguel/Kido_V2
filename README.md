@@ -13,7 +13,7 @@ That's a catch!
 
 
 
-## Tools used
+## Tools used (languages)
 
 * React Native (http://facebook.github.io/react-native/)
 * Facebook Account Kit for Password less  Authentication (Kids use their Parents Phone numbers) (https://developers.facebook.com/docs/accountkit/)
@@ -31,7 +31,7 @@ Quick Demos:
 
   ​
 
-## Help the future Developers!
+## Help the future Developers!!!!!!!
 
 Do you wish to help developers Community? Help the future developers. You are welcome for any Contribution to improve this app(a lot of improvement needed ) and Implement Kido.
 
